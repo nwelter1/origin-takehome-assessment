@@ -2,7 +2,7 @@
 
 **IMPORTANT**: you can choose any technology stack to implement this assignment. We (Origin) will consider exclusively the quality of your project (technology and product-wise) to evaluate your work.
 
-This assessment was originally made by a finance comany called Origin. Below is their reasoning for giving you this assessment:
+This assessment was originally made by a finance company called Origin. Below is their reasoning for giving you this assessment:
 
 "One key to financial well-being is planning & saving for your goals. Users can have many saving goals (e.g. go to college or throw a wedding party) and it is our job to help them accomplish it.
 
